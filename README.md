@@ -1,6 +1,6 @@
 # Magic Cube
 
-![Magic Cube demo](magic-cube.gif)
+![Magic Cube demo](gif/magic-cube.gif.gif)
 
 ## Description
 A retro-styled Magic Cube fortune-telling web app with interactive 3D cube animations and themed answers. Built with vanilla HTML, CSS, and JavaScript, featuring 1980s Macintosh System 1 aesthetics, glassmorphism effects, and animated GIF backgrounds with light/dark theme support.
